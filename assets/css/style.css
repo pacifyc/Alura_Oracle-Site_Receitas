@@ -27,7 +27,7 @@ header nav ul li a {
     text-transform: lowercase;
 }
 
-header nav ul li a #ativo {
+header nav ul li a#ativo {
     color: #333333;
     font-weight: bold;
 }
